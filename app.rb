@@ -8,5 +8,4 @@ require_relative "config/seeds"
 require_relative "models/apartment"
 require_relative "models/tenant"
 
-
 binding.pry
